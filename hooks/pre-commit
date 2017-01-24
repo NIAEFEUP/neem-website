@@ -7,5 +7,5 @@
 #
 # To enable this hook, rename this file to "pre-commit".
 
-mysqldump -u neem_feup neem_feup > db/db_dump.sql -p
+mysqldump -u root neem_feup > db/db_dump.sql -p
 git add -f db/db_dump.sql
