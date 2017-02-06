@@ -1,4 +1,4 @@
-	<div class="footer section large-padding bg-dark">
+	<div class="footer section small-padding bg-dark">
 		
 		<div class="footer-inner section-inner">
 		
