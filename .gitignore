@@ -12,3 +12,6 @@
 *Thumbs.db
 *.sass-cache*
 *~imageoptim*
+
+# IDEA config
+.idea/*

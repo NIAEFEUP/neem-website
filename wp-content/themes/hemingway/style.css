@@ -248,7 +248,11 @@ a.more-link,
 
 .big-wrapper { overflow: hidden; }
 
-.wrapper { 	margin-top: 100px; }
+.wrapper {
+	margin-top: 50px;
+	padding: 50px 50px;
+	background: #FFFFFF;
+}
 
 .content { width: 65%; }
 .content.center { margin-left: auto; margin-right: auto; }
