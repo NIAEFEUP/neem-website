@@ -62,9 +62,12 @@
 			</p>
 			
 			<p class="credits-right">
-				
-				<span><?php printf( __( 'Desenvolvido por <a href="%s">NIAEFEUP</a><img class="margin-left" src="wp-content/uploads/2017/02/logo-e1486550194661.png" width="15"/>', 'hemingway'), 'http://ni.fe.up.pt' ); ?></span> &mdash; <a title="<?php _e('To the top', 'hemingway'); ?>" class="tothetop"><?php _e('Up', 'hemingway' ); ?> &uarr;</a>
-				
+
+				<span><?php printf( __( 'Desenvolvido por <a href="%s">NIAEFEUP</a>', 'hemingway'), 'http://ni.fe.up.pt' ); ?></span>
+                <a href="http://ni.fe.up.pt"><img class="margin-left" src="wp-content/uploads/2017/02/logo-e1486550194661.png" width="15"/></a> &mdash;
+                <a title="<?php _e('To the top', 'hemingway'); ?>" class="tothetop"><?php _e('Up', 'hemingway' ); ?> &uarr;</a>
+
+
 			</p>
 			
 			<div class="clear"></div>
