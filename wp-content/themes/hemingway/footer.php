@@ -1,4 +1,4 @@
-	<div class="footer section small-padding bg-dark">
+	<div class="footer section extra-small-padding bg-dark">
 		
 		<div class="footer-inner section-inner">
 		
@@ -57,12 +57,13 @@
 			<p class="credits-left">
 			
 				&copy; <?php echo date("Y") ?> <a href="<?php echo home_url(); ?>" title="<?php bloginfo('name'); ?>"><?php bloginfo('name'); ?></a>
+                <?php echo '<a href="https://www.facebook.com/neemfeup"><i class="icon icon-facebook-official social-media-icon"></i></a>';?>
 			
 			</p>
 			
 			<p class="credits-right">
 				
-				<span><?php printf( __( 'Theme by <a href="%s">Anders Noren</a>', 'hemingway'), 'http://www.andersnoren.se' ); ?></span> &mdash; <a title="<?php _e('To the top', 'hemingway'); ?>" class="tothetop"><?php _e('Up', 'hemingway' ); ?> &uarr;</a>
+				<span><?php printf( __( 'Desenvolvido por <a href="%s">NIAEFEUP</a><img class="margin-left" src="wp-content/uploads/2017/02/logo-e1486550194661.png" width="15"/>', 'hemingway'), 'http://ni.fe.up.pt' ); ?></span> &mdash; <a title="<?php _e('To the top', 'hemingway'); ?>" class="tothetop"><?php _e('Up', 'hemingway' ); ?> &uarr;</a>
 				
 			</p>
 			

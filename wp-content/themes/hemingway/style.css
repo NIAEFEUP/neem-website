@@ -2437,6 +2437,12 @@ img#wpstats { display: none; }
 
 /* User --------------------------------------- */
 .social-media-icon {
-	font-size: 200%;
+	font-size: 150%;
     color: white;
 }
+
+.margin-left {
+	margin-left: 0.3em;
+}
+
+.section.extra-small-padding { padding: 1% 0; }
