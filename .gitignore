@@ -1,8 +1,5 @@
 ## Wordpress .gitignore by https://stevegrunwell.github.io/wordpress-git/#/10
 # Keep these files out of the repo
-/wp-content/themes/twenty*
-/wp-content/upgrade
-/wp-content/uploads
 /sitemap.*
 /wp-config.php
 *.sql
