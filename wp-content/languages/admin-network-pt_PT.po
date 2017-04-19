@@ -2,12 +2,12 @@
 # This file is distributed under the same license as the WordPress - 4.7.x - Administration - Network Admin package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-11-09 12:37:48+0000\n"
+"PO-Revision-Date: 2017-04-04 15:14:02+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: GlotPress/2.3.0-alpha\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
 "Language: pt\n"
 "Project-Id-Version: WordPress - 4.7.x - Administration - Network Admin\n"
 
@@ -674,7 +674,7 @@ msgstr "Eliminar é uma operação permanente, após as páginas de confirmaçã
 
 #: wp-admin/network/sites.php:37
 msgid "Clicking on bold headings can re-sort this table."
-msgstr "Clicar nos títulos em negrito pode re-ordenar esta tabela."
+msgstr "Ao clicar nos títulos em negrito pode reordenar esta tabela."
 
 #: wp-admin/network/menu.php:41 wp-admin/network/themes.php:250
 msgctxt "theme"
