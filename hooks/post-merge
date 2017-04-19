@@ -1,3 +1,0 @@
-#!/bin/sh
-
-mysql -u neem_feup neem_feup < db/db_dump.sql -p

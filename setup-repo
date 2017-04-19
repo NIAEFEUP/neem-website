@@ -1,8 +1,0 @@
-#!/bin/bash
-cd .git/hooks/
-ln -s ../../hooks/pre-commit pre-commit
-ln -s ../../hooks/post-merge post-merge
-cd ../../
-
-# Refresh database
-hooks/post-merge
